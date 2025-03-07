@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Sports Meetup</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="have_account">Already have an account? Sign In</string>
+    <string name="no_account">Don\'t have an account? Sign Up</string>
+    <string name="forgot_password">"Forgot your password? Fill the email form and click here to get a password recovery email"</string>
+    <string name="email_successfully_sent">Email successfully sent!</string>
+    <string name="change_password">Change Password</string>
+    <string name="submit">Submit</string>
+    <string name="successfully_changed_password">Successfully changed password! Click to close message</string>
+    <string name="log_out">Log Out</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="new_password">New Password</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="no_events_available">No events available</string>
+
+    <string name="tennis">Tennis</string>
+    <string name="exercise">Exercise</string>
+    <string name="swimming">Swimming</string>
+    <string name="jogging">Jogging</string>
+    <string name="basketball">Basketball</string>
+    <string name="football">Football</string>
+    <string name="title_activity_selected_event">SelectedEvent</string>
+    <string name="title_activity_sport_join_leave">SportJoinLeaveActivity</string>
+    <string name="title_activity_sport_create">SportCreateActivity</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15846574726",
+    "project_id": "sportsmeetup-4bb28",
+    "storage_bucket": "sportsmeetup-4bb28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15846574726:android:7e61b5eb9f520f89f45f07",
+        "android_client_info": {
+          "package_name": "com.example.sportsmeetup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb2yS1OC2inb-6rCLXN3BV7Ogt0ytIup0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
